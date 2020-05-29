@@ -1,2 +1,2 @@
 # Book-list
-A Jave Script book list
+A Java Script book list
